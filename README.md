@@ -1,6 +1,6 @@
 # finance-tracker
 
-A simple finance tracker to keep track of your expenses.
+A simple finance tracker to keep track of user spendings.
 
 site preview:
 
